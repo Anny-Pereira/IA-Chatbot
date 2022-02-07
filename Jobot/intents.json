@@ -1,0 +1,6 @@
+{"intents": [
+    {"tag": "saudacoes",
+     "patterns": ["Oi", "Iae", "Bom dia", "Boa tarde", "Boa noite", "Beleza", "Suave", "Aoba", "Bão"],
+     "responses": ["Seja Bem-Vindo! No que posso te ajudar?", "Olá! No que eu poderia te ajudar?"]}
+]
+}

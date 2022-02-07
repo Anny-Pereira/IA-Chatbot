@@ -1,0 +1,10 @@
+{"intents": [
+    {"tag": "saudacoes",
+     "patterns": ["Oi", "Iae", "Bom dia", "Boa tarde", "Boa noite", "Aoba", "Bão"],
+     "responses": ["Seja Bem-Vindo! No que posso te ajudar?", "Olá! No que eu poderia te ajudar?"]},
+    {"tag": "despedida",
+     "patterns": ["Tchau", "Adeus", "Falow", "Até Mais"],
+     "responses": ["Tchau, volte sempre!", "Adeus, indique a loja para amigos!"]}
+
+]
+}
